@@ -9,6 +9,12 @@
       "id": 2,
       "name": "Ravi",
       "course": "PGDCA"
+    },
+    {
+      "id": 3,
+      "name": "Lakshith",
+      "course": "PGDCA"
     }
+
   ]
 }
